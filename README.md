@@ -1,2 +1,1 @@
-# Zmarzlik-goit-js-hw-08
-Zmarzlik/goit-js-hw-07
+goit-js-hw-07
